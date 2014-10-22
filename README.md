@@ -1,7 +1,7 @@
 theme-apex
 ==========
 
-The official theme repo for Apex. Fork this to use it as a boilerplate.
+The officiall theme repo for Apex. Fork this to use it as a boilerplate.
 
 ## Getting Started
 
